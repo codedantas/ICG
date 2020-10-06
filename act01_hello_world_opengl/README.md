@@ -8,16 +8,15 @@
 
 ## Objetivos
 <ol>
-    <li>1. Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local;</li>
-    <li>2. Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos;</li>
+    <li>Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local;</li>
+    <li>Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos;</li>
 </ol>
 
 ## Tarefas concluídas
-<ol>
-    - [x] Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local
 
-    - [x] Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos
-</ol>
+- [x] Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local
+
+- [x] Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos
 
 ## Dificuldades encontradas
 
