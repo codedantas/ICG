@@ -55,7 +55,7 @@ Não foram encontradas dificuldade para executar os códigos disponibilizados.
 
 ## Resultado
 
-![Figura 1](/img/modern-opengl.png)
+![Figura 1](act01_hello_world_opengl/img/modern-opengl.png)
 
 ### Autor
 <ul>
