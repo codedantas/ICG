@@ -13,9 +13,9 @@ Os objetivos deste trabalho são:
 
 ## Desenvolvimento
 
-Para a realização deste trabalho, inicialmente, terá que instalar o OpenGL em seu ambiente de desenvolvimento.
+Para a realização deste trabalho, inicialmente, terá que instalar o OpenGL em seu ambiente de desenvolvimento a seguir:
 
-## Pré-requisitos
+### Pré-requisitos
 
 Caso esteja no Ubuntu, rode os seguintes comandos no terminal para instalar o OpenGl:
 
@@ -24,7 +24,7 @@ $ sudo apt-get update
 $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 ```
 
-## Utilização
+### Utilização
 
 Para executar o código deve-se criar o arquivo compilado para ser executado:
 
@@ -55,7 +55,7 @@ Não foram encontradas dificuldade para executar os códigos disponibilizados.
 
 ## Resultado
 
-<img src="img/modern-opengl.png">
+![Figura 1](/img/modern-opengl.png)
 
 ### Autor
 <ul>
