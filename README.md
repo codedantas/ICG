@@ -1,6 +1,9 @@
 # Introdução à Computação Grafica
+
 Repositório para abrigar as atividades desenvolvidas na disciplina de Introdução à Computação Gráfica.
 
-Atividade I:
+* 28/09/20:
+  Atividade I:
 
-Atividade II:
+* 20/10/20:
+  Atividade II:
