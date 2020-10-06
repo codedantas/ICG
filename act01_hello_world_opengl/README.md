@@ -1,26 +1,19 @@
-# OpenGL - Atividade 01 (Modern OpenGL Hello World)
+# Atividade 01 - OpenGL (Modern OpenGL Hello World)
 
-> O trabalho é referente a primeira atividade da disciplina de Introdução a Computação Gráfica. O programa deverá apresentar uma janela contendo um triangulo colorido.
-
+O trabalho a seguir refere-se a primeira atividade da disciplina de Introdução a Computação Gráfica ministrada pelo Professor Christian Azambuja Pagot ([Lattes](http://lattes.cnpq.br/4353928200012173)). 
 
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
-<img src="img/modern-opengl.png">
 
-## Objetivos
+Os objetivos deste trabalho são:
+
 <ol>
     <li>Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local;</li>
     <li>Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos;</li>
 </ol>
 
-## Tarefas concluídas
+## Desenvolvimento
 
-- [x] Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local
-
-- [x] Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos
-
-## Dificuldades encontradas
-
-Não foram encontradas dificuldade para executar os códigos disponibilizados.
+Para a realização deste trabalho, inicialmente, terá que instalar o OpenGL em seu ambiente de desenvolvimento.
 
 ## Pré-requisitos
 
@@ -44,11 +37,27 @@ Após isso, basta executar o programa:
 ```sh
 $ ./[nome executável]
 ```
-### Aluno
+
+Em seguida, terá que fazer download do programa OpenGL disponível no repositório da disciplina:
+
+https://github.com/capagot/icg/tree/master/01_hello_world_gl/modern_opengl
+
+
+## Objetivos concluídos
+
+- [x] Verificar se o ambiente de desenvolvimento em OpenGL 3.3 está com o funcionamento correto na máquina local
+
+- [x] Exemplificar o funcionamento do OpenGL moderno e do antigo através de exemplos
+
+## Dificuldades encontradas
+
+Não foram encontradas dificuldade para executar os códigos disponibilizados.
+
+## Resultado
+
+<img src="img/modern-opengl.png">
+
+### Autor
 <ul>
     <li>Matheus Henrique Raposo Dantas – 11414179 – matheusdantas@cc.ci.ufpb.br</li>
 </ul>
-
-### Repositório da Atividade
-
-https://github.com/capagot/icg
