@@ -29,7 +29,7 @@ $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 Para executar o código deve-se criar o arquivo compilado para ser executado:
 
 ```sh
-$ cd act01_hello_world_opengl/
+$ cd ICG/act01_hello_world_opengl/
 $ gcc main.c -o [nome executável] -lglut -lGLU -lGL
 ```
 
