@@ -4,14 +4,11 @@ Repositório para abrigar as atividades desenvolvidas na disciplina de Introduç
 
 ## Atividades Práticas
 
-### 06/10/20:
-* I - Compilando e executando um programa OpenGL moderno:
- - [x] [Hello World OpenGL](https://github.com/matheusdantascc/ICG/tree/master/act01_hello_world_opengl)
-
-### 20/10/20:
-* II -  Rasterizando Linhas:
-- [ ] Em Andamento
+ - [x] [ I - Hello World OpenGL](https://github.com/matheusdantascc/ICG/tree/master/act01_hello_world_opengl) – 06/10/20
+- [x] [II - Rasterizando Linhas](https://github.com/matheusdantascc/ICG/tree/master/act02_rasterizing_lines) – 20/10/20
 
 ## Provas
+
+- 26/10
 
 ## Trabalhos
