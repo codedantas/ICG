@@ -154,7 +154,7 @@ Como a distância parcial varia, então, o cálculo da taxa irá variar também 
 
 Para ver o código completo, acesse o arquivo __mygl.c__
 
-## Consideraçẽos finais
+## Considerações finais
 
 Portanto, conseguimos executar tudo o que foi pedido nesta atividade com resultados satisfatórios. Tivemos algumas dificuldades dentre elas, foram: 
 
