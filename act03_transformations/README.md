@@ -15,7 +15,9 @@ Para este trabalho utilizaremos as bibliotecas *__glm__* e *__GLEW__* fornecidas
 
 Download do repositório do código template: <https://github.com/capagot/icg/tree/master/03_transformations>
 
-## Dependências
+## Desenvolvimento
+
+Primeira, precisaremos instalar as dependências.
 
 Para instalar a biblioteca *__GLEW__*, o seguinte comando deve ser executado:
 
@@ -29,8 +31,6 @@ A biblioteca *__glm__* está inclusa na forma de submódulo, assim, se faz neces
 ~~~
 $ git clone --recurse-submodules https://github.com/capagot/icg.git
 ~~~
-
-## Compilação
 
 Após a instalar das dependências, basta acessar o repositório do projeto, abrir o terminal e executar o comando:
 
@@ -49,7 +49,7 @@ Se tudo correu bem após compilar, você verá:
 ![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/modelopadrao.png)
 
 
-## :pushpin:  A Atividade
+## A Atividade
 
 A atividade consiste em alterar, no programa template, os conteúdos das matrizes *__MODEL__*, *__VIEW__* e *__PROJECTION__*, que estão listadas abaixo, de forma que o programa gere as imagens listadas nos exercicios abaixo:
 
@@ -178,10 +178,11 @@ Após essas modificações, obtivemos o resultador a seguir:
 
 4. [Blog Introdução à Computação Gráfica](https://matheuspraxedescg.blogspot.com/2016/10/pipeline-grafico.html)
 
-5. [CComputação Gráfica - Transformações Geométricas no Plano e no Espaço](https://pt.slideshare.net/thild/computao-grfica-transformaes-geomtricas-no-plano-e-no-espao)
+5. [Computação Gráfica - Transformações Geométricas no Plano e no Espaço](https://pt.slideshare.net/thild/computao-grfica-transformaes-geomtricas-no-plano-e-no-espao)
 
 ## Alunos
 
-Kenji Aranha Sato - 11514918
+Kenji Aranha Sato - 11514918 - [Github](https://github.com/KenjiSato97/ICG)
 
-Matheus Henrique Raposo Dantas - 11414179 
+Matheus Henrique Raposo Dantas - 11414179 - [Github](https://github.com/matheusdantascc/ICG)
+
