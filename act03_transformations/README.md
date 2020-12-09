@@ -17,9 +17,7 @@ Download do repositório do código template: <https://github.com/capagot/icg/tr
 
 ## Desenvolvimento
 
-Primeira, precisaremos instalar as dependências.
-
-Para instalar a biblioteca *__GLEW__*, o seguinte comando deve ser executado:
+Primeiramente, precisaremos instalar as dependências. Para instalar a biblioteca *__GLEW__*, o seguinte comando deve ser executado:
 
 ~~~
 $ sudo apt-get install libglew-dev
