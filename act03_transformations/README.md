@@ -46,7 +46,7 @@ $ ./transform_gl
 
 Se tudo correu bem após compilar, você verá:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/modelopadrao.png)
 
 
 ## :pushpin:  A Atividade
@@ -57,7 +57,7 @@ A atividade consiste em alterar, no programa template, os conteúdos das matrize
 
 Neste exercício devemos modificar a matriz *Model* de forma que a imagem gerada pelo programa fique como a da figura abaixo:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio1-escala-modelo.png)
 
 Temos os fatores de escala em __(x,y,z) = (1/3, 3/2, 1)__. Dado isso, a matriz modificada fica da seguinte forma:
 
@@ -70,13 +70,13 @@ Temos os fatores de escala em __(x,y,z) = (1/3, 3/2, 1)__. Dado isso, a matriz m
 
 Após a substituição dos valores e compilação, obtivemos o resultado a seguir:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio1-escala.png)
 
 ## :clipboard: Exercício 2: Translação
 
 Neste exercício devemos modificar novamente a matriz *Model* de forma que a imagem gerada pelo programa fique como a da figura abaixo:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio2-translacao-modelo.png)
 
 Temos os fatores de translação em __(x,y,z) = (1,0,0)__. Dado isso, a matriz modificada fica da seguinte forma:
 
@@ -90,17 +90,18 @@ Temos os fatores de translação em __(x,y,z) = (1,0,0)__. Dado isso, a matriz m
 
 Após a substituição dos valores e compilação, obtivemos o resultado a seguir:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio2-translacao.png)
 
 
 ## :clipboard: Exercício 3: Projeção Perspectiva
 
 Neste exercício devemos modificar a matriz *Projection* de forma que a imagem gerada pelo programa fique como a da figura abaixo:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio3-projecao-modelo.png)
 
 A matriz de projetação usada foi a que estudamos em aula, que considera a câmera na origem do seu sistema de coordenadas e onde *d* é a distância do centro de projetação até a origem do sistema de coordenadas da câmera, logo:
 
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio3-projeco-mp.png)
 
 A partir disso, atribuimos 1/8 à *d* e a matriz modificada fica da seguinte forma:
 
@@ -113,27 +114,27 @@ A partir disso, atribuimos 1/8 à *d* e a matriz modificada fica da seguinte for
 
 E obtivemos o resultado a seguir:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio3-projecao.png)
 
 
 ## :clipboard: Exercício 4: Posição da Câmera
 
 Neste exercício devemos modificar a matriz *View* de forma que a imagem gerada pelo programa fique como a da figura abaixo:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio4-camera-modelo.png)
 
 Para a realização desse exercício, faz-se necessário descobrir as coordenadas x,y e z do espaço da câmera para isso, devemos realizar a transformação do Espaço do Universo para o da Câmera usando as seguintes fórmulas:
 
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio4-camera-2.png)
 
 Após isso, temos uma nova matriz Mview obtida a partir da matriz resultante da multplicação das matrizes: Bt(ou de rotação) e Translação T, representadas por:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio4-camera-3.png)
 
 E obtivemos o resultado a seguir:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio4-camera.png)
 
 
 ## :clipboard: Exercício 5: Transformações Livres
@@ -146,7 +147,6 @@ Matriz Model
                             -0.5f, 1.0f, 0.0f, 0.0f,
                             0.0f, 0.0f, 1.0f, 0.0f,
                             0.7f, 0.0f, 0.0f, 1.0f};
-~~~
 
 Matriz View
 ~~~c++
@@ -166,7 +166,7 @@ Matriz Projection
 
 Após essas modificações, obtivemos o resultador a seguir:
 
-![]()
+![](https://github.com/matheusdantascc/ICG/blob/master/act03_transformations/img/exercicio5-transformacoes.png)
 
 ## Referências
 
