@@ -1,4 +1,4 @@
-# Atividade 03 - Implemantação do Pipeline Gráfico
+# Atividade 03 - Implementação do Pipeline Gráfico
 
 O trabalho a seguir refere-se a terceira atividade da disciplina de Introdução a Computação Gráfica ministrada pelo Professor Christian Azambuja Pagot ([Lattes](http://lattes.cnpq.br/4353928200012173)). 
 
@@ -11,7 +11,7 @@ Os objetivos deste trabalho são:
     <li>Implementar as transformações geométricas que compõem a estrutura do pipeline gráfico.</li>
 </ol>
 
-Para este trabalho utilizaremos as bibliotecas *__glm__* e *__GLEW__* fornecido pelo Prof. Christian Azambuja Pagot e código disponibilizado abaixo depende de softwares de terceiros como as bibliotecas citadas.
+Para este trabalho utilizaremos as bibliotecas *__glm__* e *__GLEW__* fornecidas pelo Prof. Christian Azambuja Pagot. O código disponibilizado abaixo depende de softwares de terceiros como as bibliotecas citadas e será executado pelo *shaders* do OpenGL Moderno.
 
 Download do repositório do código template: <https://github.com/capagot/icg/tree/master/03_transformations>
 
@@ -171,6 +171,14 @@ Após essas modificações, obtivemos o resultador a seguir:
 ## Referências
 
 1. Notas de aula do Professor Christian Azambuja Pagot disponibilizadas no Sigaa.
+
+2. [How to Install](https://howtoinstall.co/pt/ubuntu/xenial/libglew-dev)
+
+3. [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html)
+
+4. [Blog Introdução à Computação Gráfica](https://matheuspraxedescg.blogspot.com/2016/10/pipeline-grafico.html)
+
+5. [CComputação Gráfica - Transformações Geométricas no Plano e no Espaço](https://pt.slideshare.net/thild/computao-grfica-transformaes-geomtricas-no-plano-e-no-espao)
 
 ## Alunos
 
