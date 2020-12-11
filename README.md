@@ -7,8 +7,11 @@ Repositório para abrigar as atividades desenvolvidas na disciplina de Introduç
  - [x] [ I - Hello World OpenGL](https://github.com/matheusdantascc/ICG/tree/master/act01_hello_world_opengl) – 06/10/20
 - [x] [II - Rasterizando Linhas](https://github.com/matheusdantascc/ICG/tree/master/act02_rasterizing_lines) – 20/10/20
 
+- [x] [III - Implementação do Pipeline Gráfico](https://github.com/matheusdantascc/ICG/tree/master/act03_transformations) – 09/12/20
 ## Provas
 
-- 26/10
+[x] 1ª Prova – 09/11/20
 
-## Trabalhos
+[x] 2ª Prova – 10/12/20 
+
+
