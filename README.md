@@ -10,8 +10,8 @@ Repositório para abrigar as atividades desenvolvidas na disciplina de Introduç
 - [x] [III - Implementação do Pipeline Gráfico](https://github.com/matheusdantascc/ICG/tree/master/act03_transformations) – 09/12/20
 ## Provas
 
-[x] 1ª Prova – 09/11/20
+- [x] 1ª Prova – 09/11/20
 
-[x] 2ª Prova – 10/12/20 
+- [x] 2ª Prova – 10/12/20 
 
 
